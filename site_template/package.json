@@ -1,0 +1,33 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "criação de um site usando gulp, git hub, mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudizinhb23112006/site_template.git"
+  },
+  "author": "yudi henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudizinhb23112006/site_template/issues"
+  },
+  "homepage": "https://github.com/yudizinhb23112006/site_template#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "browser-sync": "^3.0.2",
+    "cli": "^1.0.1",
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-mustache": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "mustache": "^4.2.0",
+    "sass": "^1.77.2"
+  }
+}
